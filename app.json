@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-doc-picker-crash-ios",
+    "slug": "expo-doc-picker-crash-ios",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
